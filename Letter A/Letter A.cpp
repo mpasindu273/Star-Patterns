@@ -31,7 +31,7 @@ class letterA
 
   void assemble()
   {
-    for(i=3;i<=20;i++)
+    for(i=1;i<=20;i++)
     {
       for(s=i;s<20;s++)
       {
